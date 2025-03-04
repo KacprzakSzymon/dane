@@ -20,6 +20,7 @@ namespace dane
     /// </summary>
     public partial class MainWindow : Window
     {
+        ObservableCollection<pracownik>
         public MainWindow()
         {
             InitializeComponent();
