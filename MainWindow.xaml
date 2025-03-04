@@ -6,7 +6,43 @@
         xmlns:local="clr-namespace:dane"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+    <Grid VerticalAlignment="Top" HorizontalAlignment="Left" ShowGridLines="True" Width="700" Height="100">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <TextBlock FontSize="12" Grid.Row="0" Grid.Column="0"><Button Name="btn1" Background="AliceBlue" 
+        BorderBrush="Black" BorderThickness="1" 
+        Click="OnClick1" ClickMode="Hover">
+ zapisz
+</Button></TextBlock>
+        <TextBlock FontSize="12"  Grid.Row="0" Grid.Column="1"><Button Name="btn2" Background="AliceBlue" 
+        BorderBrush="Black" BorderThickness="1" 
+        Click="OnClick2" ClickMode="Hover">
+ wczytaj
+</Button></TextBlock>
+        <TextBlock FontSize="12" FontWeight="Bold" Grid.Row="1" Grid.Column="0">id</TextBlock>
+        <TextBlock FontSize="12" FontWeight="Bold" Grid.Row="1" Grid.Column="1">imie</TextBlock>
+        <TextBlock FontSize="12" FontWeight="Bold" Grid.Row="1" Grid.Column="2">Nazwisko</TextBlock>
+        <TextBlock FontSize="12" FontWeight="Bold" Grid.Row="1" Grid.Column="3">zarobki</TextBlock>
+        <TextBlock FontSize="12" FontWeight="Bold" Grid.Row="1" Grid.Column="4">data zatrudnienia</TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="0">1</TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="1">Jan</TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="2">Kowalski</TextBlock>
+        <TextBlock Grid.Row="3" Grid.Column="0">2</TextBlock>
+        <TextBlock Grid.Row="3" Grid.Column="1">Piotr</TextBlock>
+        <TextBlock Grid.Row="3" Grid.Column="2">Nowak</TextBlock>
     </Grid>
+    
 </Window>

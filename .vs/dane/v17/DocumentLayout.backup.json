@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{4736BAD3-F42D-4D28-9481-F5AE9DCD2823}|dane.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4736BAD3-F42D-4D28-9481-F5AE9DCD2823}|dane.csproj|z:\\dane\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4736BAD3-F42D-4D28-9481-F5AE9DCD2823}|dane.csproj|Z:\\dane\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4736BAD3-F42D-4D28-9481-F5AE9DCD2823}|dane.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,8 +26,8 @@
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "Z:\\dane\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "Z:\\dane\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
+              "ToolTip": "Z:\\dane\\MainWindow.xaml*",
+              "RelativeToolTip": "MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-04T10:47:00.382Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T10:46:59.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T10:46:59.051Z"
             }
           ]
         }

@@ -1,0 +1,5 @@
+Z:\dane\obj\Debug\dane.csproj.AssemblyReference.cache
+Z:\dane\obj\Debug\MainWindow.g.cs
+Z:\dane\obj\Debug\App.g.cs
+Z:\dane\obj\Debug\dane_MarkupCompile.cache
+Z:\dane\obj\Debug\dane_MarkupCompile.lref
